@@ -13,11 +13,11 @@ I'm a passionate **Java developer** with **1 year of experience** in building so
 
 ## 🛠 Technical Skills  
 
-**Stack**: Java (Core + SE), SQL (PostgreSQL), NoSQL (Redis), Apache Kafka   
-**Frameworks**: Spring Boot, Hibernate  
-**Tools**: Git, Docker, IntelliJ IDEA, Postman  
-**Project Build System**: Maven, Gradle (Groovy, Kotlin)  
-**Concepts**: OOP, Algorithms, Multithreading  
+- **Stack**: Java (Core + SE), SQL (PostgreSQL), NoSQL (Redis), Apache Kafka
+- **Frameworks**: Spring Boot, Hibernate
+- **Tools**: Git, Docker, IntelliJ IDEA, Postman
+- **Project Build System**: Maven, Gradle (Groovy, Kotlin)
+- **Concepts**: OOP, Algorithms, Multithreading  
 
 ## 🔥 Notable Projects
 
