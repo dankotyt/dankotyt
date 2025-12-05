@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Java developer** with **1 year of experience** in building software projects. Currently pursuing my degree in **Software Engineering** at **National Research University MIET**, where I combine academic knowledge with hands-on coding practice. My interests include:
+I'm a passionate **Java developer** with **1.5 year of experience** in building software projects. Currently pursuing my degree in **Software Engineering** at **National Research University MIET**, where I combine academic knowledge with hands-on coding practice. My interests include:
 
 - Algorithm design & optimization
 - Microservices architecture 
